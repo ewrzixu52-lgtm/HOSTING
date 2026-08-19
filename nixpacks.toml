@@ -1,0 +1,5 @@
+[providers]
+python = "3.11"
+
+[build]
+command = "pip install -r requirements.txt"
