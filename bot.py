@@ -26,7 +26,7 @@ from telegram import Update, InlineKeyboardButton, InlineKeyboardMarkup, ReplyKe
 from telegram.ext import Application, CommandHandler, MessageHandler, CallbackQueryHandler, ContextTypes, filters
 
 # ==================== CONFIGURATION ====================
-BOT_TOKEN = os.environ.get("BOT_TOKEN", "YOUR_BOT_TOKEN")
+BOT_TOKEN = os.environ.get("BOT_TOKEN", "8879538717:AAFyLMHlZ-pS1q23-rWx9_Hb7WLHq560G78")
 ADMIN_IDS = [int(x) for x in os.environ.get("ADMIN_IDS", "7892255798").split(",")]
 MAX_CHANNELS = 5
 REFERRALS_NEEDED = 5
