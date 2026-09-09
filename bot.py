@@ -369,7 +369,7 @@ CONTACT_OWNER_BUTTON_EMOJI_ID = "6129404354186187988"
 
 # 🗄️ Backup channel ki ID yahan daalo (bot ko us channel me admin banana hoga)
 # Channel ID nikalne ka tarika README.md me likha hai
-BACKUP_CHANNEL_ID = ""   # 👈 yahan apne backup channel ki ID daalo, jaise "-1001234567890"
+BACKUP_CHANNEL_ID = "-1004475152675"   # 👈 yahan apne backup channel ki ID daalo, jaise "-1001234567890"
 
 DB_PATH = "botdata.db"   # local file; auto-backed-up to your channel every 30 min
 DB_BACKUP_FILENAME = "group_manager_backup.json"  # fixed name/format -- required for import to accept it
